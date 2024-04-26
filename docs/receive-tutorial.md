@@ -6,7 +6,10 @@
 
 ![](https://img.inke.app/file/3773b481c78c9087140b1.png) 
 
-然后，创建一个名为 `emails` 的表。
+然后，创建一个名为 `emails` 的表。点击Databases-点击数据库vmail-Edit Tables-将下面的sql脚本复制到图示位置。
+
+![image](https://github.com/Curt04062002/vmail/assets/166460700/43117d31-032f-4372-b52d-afe4532a7cd5)
+
 
 选择您的数据库，您会看到“编辑表”按钮，点击并进入:
 
